@@ -13,4 +13,6 @@ The time period of the API call can be changed. The API call may be adapted to e
 4. Copy the contents of "dashboard_olympics_May25_API_call.R" into the box which appears
 5. Click "Ok"
 
+# Warning!
 
+In order for this R script to work in Power BI, all relevant R packages must be installed locally.
