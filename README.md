@@ -2,7 +2,7 @@
 
 An R script to extract a year of "Finalised Secondary Care Medicines Data (SCMD) with indicative price" data directly from the NHSBSA Open Data Portal (ODP)
 
-The time period of the API call can be changed. The API all may be adapted to extract other data from the ODP. 
+The time period of the API call can be changed. The API call may be adapted to extract other data from the ODP. 
 
 
 # To use this R script to load data into Power BI
