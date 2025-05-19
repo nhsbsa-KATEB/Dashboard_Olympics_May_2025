@@ -1,6 +1,6 @@
 # Dashboard Olympics May 2025 API Call
 
-An R script to extract a year of "Finalised Secondary Care Medicines Data (SCMD) with indicative price" data directly from the NHSBSA Open Data Portal (ODP)
+An R script to extract a year of _"Finalised Secondary Care Medicines Data (SCMD) with indicative price"_ data directly from the NHSBSA Open Data Portal (ODP)
 
 The time period of the API call can be changed. The API call may be adapted to extract other data from the ODP. 
 
